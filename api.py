@@ -5,7 +5,7 @@ import requests
 app = Flask(__name__)
 
 api_keys = {
-    "brad": "27/11/2023",
+    "brad": "28/11/2024",
     "por": "27/11/2023",
     "grimgo": "30/12/2025"}
 
